@@ -27,6 +27,7 @@ int main() {
 	bool errorFlag = false;
 
 	printf("This program will convert roman numerals to integers.\n");
+	printf("For example: VII\n");
 	printf("Input 'quit' to quit program\n");
 
 	//Infinite loop to allow multiple conversions
